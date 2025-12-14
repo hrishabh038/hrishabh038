@@ -26,7 +26,7 @@ const Edu = ({ degree, institute, start, end, location }) => {
   return (
     <div className="flex flex-col items-start gap-4 rounded hover:bg-neutral-800/40 cursor-pointer">
       <div className="flex gap-4 items-start">
-        <div className="w-fit p-3 bg-neutral-800 border-2 border-neutral-500 text-neutral-400 rounded">
+        <div className="w-fit p-2 bg-neutral-800 border-2 border-neutral-500 text-neutral-400 rounded">
           <FaBookOpenReader className="text-2xl" />
         </div>
         <div className="flex flex-col font-semibold">

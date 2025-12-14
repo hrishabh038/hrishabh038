@@ -34,7 +34,7 @@ const Work = ({ role, company, start, end, description }) => {
       <div className="flex items-start gap-4">
         <div
           className={twMerge(
-            "w-fit p-3 bg-neutral-800 border-2 border-neutral-500 text-neutral-400 rounded",
+            "w-fit p-2 bg-neutral-800 border-2 border-neutral-500 text-neutral-400 rounded",
             active && "border-purple-800 text-purple-400 bg-purple-800/15"
           )}
         >
