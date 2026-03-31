@@ -2,6 +2,7 @@ import React from "react";
 import { Section } from "./components";
 import { twMerge } from "tailwind-merge";
 import { MdCode, MdStorage, MdBuild, MdWeb } from "react-icons/md";
+import { GrCertificate } from "react-icons/gr";
 import { metadata } from "../metadata";
 
 const CATEGORY_META = {
@@ -20,6 +21,10 @@ const CATEGORY_META = {
   tools: {
     label: "Tools",
     icon: MdBuild,
+  },
+  certificates: {
+    label: "Certificates",
+    icon: GrCertificate,
   },
 };
 
@@ -49,7 +54,7 @@ const SkillCategory = ({ title, icon: Icon, items }) => {
   return (
     <div
       className={twMerge(
-        "flex flex-col gap-4 rounded hover:bg-neutral-800/40 transition"
+        "flex flex-col gap-4 rounded hover:bg-neutral-800/40 transition",
       )}
     >
       <div className="flex items-center gap-3">
@@ -74,7 +79,7 @@ const SkillBadge = ({ label }) => {
       className={twMerge(
         "px-3 py-1 text-sm rounded",
         "bg-neutral-800 border border-neutral-700 text-neutral-300",
-        "hover:border-purple-700 hover:text-purple-400 transition cursor-default"
+        "hover:border-purple-700 hover:text-purple-400 transition cursor-default",
       )}
     >
       {label}

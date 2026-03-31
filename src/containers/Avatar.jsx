@@ -7,6 +7,9 @@ const Avatar = () => {
       <img
         src={metadata.img}
         alt="Avatar"
+        fetchPriority="high"
+        loading="lazy"
+        decoding="async"
         className="w-[250px] sm:w-[325px] lg:rounded rounded-full  cursor-pointer"
       />
       <div className="flex flex-col gap-4">
@@ -21,7 +24,9 @@ const Avatar = () => {
         <ul className="flex items-center justify-center lg:justify-start gap-4 w-full">
           {metadata.links.map((link, index) => (
             <li>
-              <a href={link.url} target="_blank"><link.icon className="text-3xl cursor-pointer hover:text-purple-400" /></a>
+              <a href={link.url} target="_blank">
+                <link.icon className="text-3xl cursor-pointer hover:text-purple-400" />
+              </a>
             </li>
           ))}
           <li></li>

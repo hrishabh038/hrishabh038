@@ -1,16 +1,54 @@
-# React + Vite
+# Hrishabh Jain | Product Engineer
+**Guidewire Jutro-React Developer | Full Stack Developer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I build pixel-perfect, accessible products for the web and beyond. Currently focused on implementing scalable front-end systems using **React.js** and the **Guidewire Jutro** framework.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
+I specialize in building modular, accessible, and performant UI layers within complex enterprise environments. My expertise lies in:
+* **Frameworks:** Scalable systems using Guidewire Jutro and clean React component architecture.
+* **Architecture:** Schema-driven configuration, custom hooks, and context API for long-term maintainability.
+* **Full Stack:** Integrating frontends with Node.js, Express, and SQL backends.
+* **Industry Focus:** Delivering consistent and extensible UI experiences for insurance products (PolicyCenter).
 
-## React Compiler
+## 🛠 Technical Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Jutro, Gosu, React, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS |
+| **Backend** | PolicyCenter, Node.js, Express.js, Vite, Java Core, JDBC |
+| **Database** | MySQL, PostgreSQL, MongoDB, Supabase |
+| **Tools** | Git, GitHub, Postman, Jenkins, Datadog, SSMS, Jira, VS Code, IntelliJ IDEA, SQL, CI/CD Pipelines |
+| **Certificate** | Guidewire Associate Jutro Developer |
 
-## Expanding the ESLint configuration
+## 💼 Work Experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **Product Engineer @ LTM**
+*March 2024 – Present*
+* Developed complex frontend solutions using **React** and **Guidewire Jutro**.
+* Delivered **200+ storycards** and fixes, improving dashboard performance by **40%**.
+* Accelerated General Liability LOB implementation by **25%**.
+* Resolved **20+ bugs** in BOP LOB, increasing UI responsiveness by **20%**.
+
+### **Production Executive Intern @ Group Futurista**
+*Dec 2022 – March 2023*
+* Coordinated with professional speakers for global webinars and managed production research.
+
+### **Data Analysis & Operations Intern @ Cloobot Techlabs**
+*Aug 2021 – Oct 2021*
+* Data cleaning, visualization, and modeling based on client requirements.
+
+## 🚀 Key Projects
+
+* **College Mania:** A dynamic platform for knowledge sharing between students, teachers, and alumni.
+* **Kaksha (EdTech):** A full-stack dashboard designed to teach programming to students in grades 9–12.
+* **Personal Portfolio:** Built with **React.js** and **Tailwind CSS**, designed in Figma, and deployed via Vercel.
+
+## 🎓 Education & Certifications
+* **Guidewire Certified Associate** – Jutro (React) Developer
+* **B.Tech in Computer Science Engineering** – LNCT Group of Colleges, Bhopal (2019–2023)
+* **Senior Secondary (PCM)** – Mukularanayam School, Varanasi
+
+---
+[Portfolio](http://hrishabh038.buzz) • [LinkedIn](https://linkedin.com/in/hrishabh038) • [GitHub](https://github.com/hrishabh038)

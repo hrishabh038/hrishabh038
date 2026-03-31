@@ -23,8 +23,8 @@ Focused on building performant frontends, writing clean code, and solving real-w
   experience: [
     {
       role: "Product Engineer",
-      company: "LTIMindtree",
-      start: "June 2024",
+      company: "LTM",
+      start: "March 2024",
       end: "Present",
       description: `As a Product Engineer, I developed and optimized complex front-end solutions using React and the Guidewire Jutro framework. Delivered 50+ storycards and fixes, improved dashboard performance by 40%, and accelerated General Liability LOB implementation by 25%. Resolved 20+ bugs in BOP LOB, increasing UI responsiveness by 20% and reducing support tickets by 15%. Applied best practices in component architecture, state management, and Git-based workflows.`,
     },
@@ -88,6 +88,8 @@ Focused on building performant frontends, writing clean code, and solving real-w
   ],
   skills: {
     frontend: [
+      "Gosu (Guidewire's proprietary language)",
+      "Jutro Design System",
       "React",
       "Next.js",
       "JavaScript",
@@ -97,7 +99,16 @@ Focused on building performant frontends, writing clean code, and solving real-w
       "Tailwind CSS",
     ],
 
-    backend: ["Node.js", "Express.js", "Vite", "Java Core", "JDBC"],
+    backend: [
+      "PolicyCenter (Guidewire)",
+      "Node.js",
+      "Express.js",
+      "Vite",
+      "Java Core",
+      "GraphQL",
+      "JDBC",
+      "SQL",
+    ],
 
     database: ["MySQL", "PostgreSQL", "MongoDB"],
 
@@ -105,14 +116,19 @@ Focused on building performant frontends, writing clean code, and solving real-w
       "Git",
       "GitHub",
       "Postman",
+      "Jenkins",
+      "Datadog",
+      "Figma",
       "Visual Studio",
       "VS Code",
       "IntelliJ IDEA",
-      "SQL",
+      "Jira",
+      "Confluence",
       "Eclipse",
       "NetBeans",
       "Supabase",
     ],
+    certificates: ["Guidewire Certified Associate – Jutro (React) Developer"],
   },
 
   links: [
