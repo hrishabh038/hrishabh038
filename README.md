@@ -26,7 +26,7 @@ I specialize in building modular, accessible, and performant UI layers within co
 ### **Product Engineer @ LTIMindtree**
 *June 2024 – Present*
 * Developed complex frontend solutions using **React** and **Guidewire Jutro**.
-* Delivered **50+ storycards** and fixes, improving dashboard performance by **40%**.
+* Delivered **200+ storycards** and fixes, improving dashboard performance by **40%**.
 * Accelerated General Liability LOB implementation by **25%**.
 * Resolved **20+ bugs** in BOP LOB, increasing UI responsiveness by **20%**.
 
