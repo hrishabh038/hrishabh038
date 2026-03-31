@@ -1,1 +1,1 @@
-export {default as hrishabh038} from "./hrishabh038.jpg"
+export {default as hrishabh038} from "./hrishabh038.jpeg"
