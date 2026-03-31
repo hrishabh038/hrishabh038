@@ -103,7 +103,6 @@ Focused on building performant frontends, writing clean code, and solving real-w
       "PolicyCenter (Guidewire)",
       "Node.js",
       "Express.js",
-      "Vite",
       "Java Core",
       "GraphQL",
       "JDBC",

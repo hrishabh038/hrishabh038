@@ -16,16 +16,16 @@ I specialize in building modular, accessible, and performant UI layers within co
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Jutro, Gosu, React, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS |
-| **Backend** | PolicyCenter, Node.js, Express.js, Vite, Java Core, JDBC |
+| **Frontend** | Gosu (Guidewire's proprietary language), Jutro design system, React, Next.js, JavaScript (ES6+), TypeScript, HTML, CSS, Tailwind CSS |
+| **Backend** | PolicyCenter (Guidewire), Node.js, Express.js, GraphQL, Java Core, JDBC, SQL |
 | **Database** | MySQL, PostgreSQL, MongoDB, Supabase |
-| **Tools** | Git, GitHub, Postman, Jenkins, Datadog, SSMS, Jira, VS Code, IntelliJ IDEA, SQL, CI/CD Pipelines |
-| **Certificate** | Guidewire Associate Jutro Developer |
+| **Tools** | Git, GitHub, Postman, Jenkins, Datadog, Figma, VS Code, IntelliJ IDEA, SQL, CI/CD Pipelines |
+| **Certificates** | Guidewire Certified Associate – Jutro (React) Developer |
 
 ## 💼 Work Experience
 
-### **Product Engineer @ LTM**
-*March 2024 – Present*
+### **Product Engineer @ LTIMindtree**
+*June 2024 – Present*
 * Developed complex frontend solutions using **React** and **Guidewire Jutro**.
 * Delivered **200+ storycards** and fixes, improving dashboard performance by **40%**.
 * Accelerated General Liability LOB implementation by **25%**.
